@@ -6,16 +6,11 @@
   <a href="mailto:leandroantonio.fortunato@hotmail.com">Entre em contato comigo.</a>
 </p>
 
+---------------------------------------------
 
-[Portfólios](https://github.com/lefortunato?tab=repositories) - [LinkedIn](https://linkedin.com/in/leandro-antonio-fortunato) - [Entre em contato comigo.](mailto:leandroantonio.fortunato@hotmail.com)
+> Com mais de 25 anos de dedicação a sistemas críticos, sou um especialista apaixonado pela Ciberdefesa e pela proteção proativa. Minha missão é simples: barrar a fraude em larga escala e garantir a resiliência e continuidade de operações.
+> Tenho um histórico sólido em Ciberdefesa, no desenvolvimento e evolução de Motores de Decisão de alta performance, e projetos de modernização em AWS Cloud/Java. Atualmente, estou focado e extremamente entusiasmado em aplicar Inteligência Artificial (IA) para elevar o patamar da prevenção e automação na segurança digital.
 
-> Profissional com **25+ anos de experiência** em sistemas críticos, especializado em **Ciberdefesa, Prevenção de Fraudes em Larga Escala** e modernização de arquiteturas em **AWS Cloud/Java**. Foco em resiliência e continuidade de operações.
-
-### 🔗 Conecte-se:
-
-| 📍 São Paulo/SP | 📧 leandroantonio.fortunato@hotmail.com |
-|---|---|
-| **LinkedIn:** [linkedin.com/in/leandro-antonio-fortunato](https://linkedin.com/in/leandro-antonio-fortunato) | **Currículo PDF:** [Baixar Agora](COLE_AQUI_O_LINK_RAW_DO_CURRICULO) |
 
 ### 🚀 Expertise Técnica (Hard Skills)
 
@@ -33,12 +28,19 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🛠️ Ferramentas & Workflow
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000FF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### 💻 Linguagens & BD
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### 📈 Observabilidade & Monitoramento
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
