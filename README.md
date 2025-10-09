@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/lefortunato?tab=repositories">Portfólios</a> - 
   <a href="https://linkedin.com/in/leandro-antonio-fortunato">LinkedIn</a> - 
-  <a href="leandroantonio.fortunato@hotmail.com">Entre em contato comigo.</a>
+  <a href="mailto:leandroantonio.fortunato@hotmail.com">Entre em contato comigo.</a>
 </p>
 
 
