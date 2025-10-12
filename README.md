@@ -48,6 +48,9 @@
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+## Certification Badges 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lefortunato&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lefortunato&theme=dark&hide_border=true">
