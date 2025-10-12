@@ -51,6 +51,7 @@
 ## Certification Badges 
 
 [![Santander - CiberSegurança 2025](https://assets.dio.me/C_w739DMTY1XPvnkcaSY7doWFM9I5MREIuft-gfwJDY/f:webp/h:120/q:80/L3RyYWNrcy83MGI2Y2EwOC0xZDdlLTQxNTctYmI0OC05NmMxMTY0ZmQ3ZTcucG5n)](https://assets.dio.me/zc5wNyJNlxjGLcIWdq5jSLUkmZZivowdN9DMyoczoyA/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8yWlhQSzhCTy5qcGc)
+[![Formação Cybersecurity Specialist](https://assets.dio.me/8n9f42Q8eQ9ax_kA8j5i4968tRWRVs5UoyVpkeD76zo/f:webp/h:120/q:80/L3RyYWNrcy9mNzEwM2RhNi0zMmNmLTQ2YTQtYmUxYy1jOTcwNjc1MzQzNTUucG5n)](https://assets.dio.me/ejU4A9KHLBVFe0_X4yAdsXA1h2DaN1A1Fg8QW0P0H3Q/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CNEI1V1BHWi5qcGc)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lefortunato&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
