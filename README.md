@@ -50,6 +50,7 @@
 
 ## Certification Badges 
 
+[![Santander - CiberSegurança 2025](https://assets.dio.me/C_w739DMTY1XPvnkcaSY7doWFM9I5MREIuft-gfwJDY/f:webp/h:120/q:80/L3RyYWNrcy83MGI2Y2EwOC0xZDdlLTQxNTctYmI0OC05NmMxMTY0ZmQ3ZTcucG5n)](https://web.dio.me/track/santander-ciberseguranca-2025?tab=certificate)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lefortunato&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
