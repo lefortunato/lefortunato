@@ -60,11 +60,6 @@
 [![Formação Cybersecurity Specialist](https://assets.dio.me/8n9f42Q8eQ9ax_kA8j5i4968tRWRVs5UoyVpkeD76zo/f:webp/h:120/q:80/L3RyYWNrcy9mNzEwM2RhNi0zMmNmLTQ2YTQtYmUxYy1jOTcwNjc1MzQzNTUucG5n)](https://assets.dio.me/ejU4A9KHLBVFe0_X4yAdsXA1h2DaN1A1Fg8QW0P0H3Q/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CNEI1V1BHWi5qcGc)
 [![Formação Fundamentos de Inteligência Artificial](https://assets.dio.me/XeSGwYIOI2Xvl-7_WTEcgvxCHX-BBwsBtkI5fY7ParU/f:webp/h:120/q:80/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n)](https://assets.dio.me/1UtNz5hyvbBfAr9sVrGYdiHNN1G8EzthdNOv8GRJA6M/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DRlFZUDhHNi5qcGc)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lefortunato&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-</p>
-
-
 <!--
 **lefortunato/lefortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
