@@ -24,6 +24,12 @@
 ![Hydra](https://img.shields.io/badge/Hydra-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-EE0000?style=for-the-badge&logo=metasploit&logoColor=white)
 
+#### 🎛️ Operating System
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 #### ☁️ Cloud & Infraestrutura
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
