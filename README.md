@@ -60,6 +60,10 @@
 [![Riachuelo - CiberSegurança 2026](https://assets.dio.me/i0GjD0jwH7BGvLc18GfBugOllx6SnbyTr-CuTVbTyXA/f:webp/h:120/q:80/L3RyYWNrcy84Zjk0OGZhOC1jYzQ2LTRkZmUtOTk5Ni02NzZlMzljNTdmYzQucG5n)](https://assets.dio.me/ZgmWY5NGv37iUklbuFzyIyOceBIN_CmBxY0knWBJvik/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9YOEoxN1IwUC5qcGc)
 [![Formação Cybersecurity Specialist](https://assets.dio.me/8n9f42Q8eQ9ax_kA8j5i4968tRWRVs5UoyVpkeD76zo/f:webp/h:120/q:80/L3RyYWNrcy9mNzEwM2RhNi0zMmNmLTQ2YTQtYmUxYy1jOTcwNjc1MzQzNTUucG5n)](https://assets.dio.me/ejU4A9KHLBVFe0_X4yAdsXA1h2DaN1A1Fg8QW0P0H3Q/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CNEI1V1BHWi5qcGc)
 [![Formação Fundamentos de Inteligência Artificial](https://assets.dio.me/XeSGwYIOI2Xvl-7_WTEcgvxCHX-BBwsBtkI5fY7ParU/f:webp/h:120/q:80/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n)](https://assets.dio.me/1UtNz5hyvbBfAr9sVrGYdiHNN1G8EzthdNOv8GRJA6M/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DRlFZUDhHNi5qcGc)
+[![Formação CI&T - Do Prompt ao Agente](https://assets.dio.me/5Tu3wluAPJGaz4O2OMi9U4UmgqDhyOt0mHDWChdrJVM/f:webp/h:120/q:80/L3RyYWNrcy8wZmMyNWM0Ni01ZDcwLTRkNTYtOWQ5MS1kY2Q4NGYxMmIxOGMucG5n)](https://assets.dio.me/1UtNz5hyvbBfAr9sVrGYdiHNN1G8EzthdNOv8GRJA6M/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DRlFZUDhHNi5qcGc)
+
+
+
 
 <!--
 **lefortunato/lefortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
