@@ -1,4 +1,4 @@
-# 🛡️ Leandro Antonio Fortunato | Engenheiro de Cyberdefense
+# 🛡️ Leandro Antonio Fortunato | Engenheiro de Cyberdefense | Engenheiro de sistemas
 
 <p align="center">
   <a href="https://github.com/lefortunato?tab=repositories">Portfólios</a> - 
