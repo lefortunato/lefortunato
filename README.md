@@ -62,6 +62,8 @@
 [![Formação Fundamentos de Inteligência Artificial](https://assets.dio.me/XeSGwYIOI2Xvl-7_WTEcgvxCHX-BBwsBtkI5fY7ParU/f:webp/h:120/q:80/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n)](https://assets.dio.me/1UtNz5hyvbBfAr9sVrGYdiHNN1G8EzthdNOv8GRJA6M/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DRlFZUDhHNi5qcGc)
 [![Formação CI&T - Do Prompt ao Agente](https://assets.dio.me/5Tu3wluAPJGaz4O2OMi9U4UmgqDhyOt0mHDWChdrJVM/f:webp/h:120/q:80/L3RyYWNrcy8wZmMyNWM0Ni01ZDcwLTRkNTYtOWQ5MS1kY2Q4NGYxMmIxOGMucG5n)](https://hermes.dio.me/certificates/cover/SEJDI9QC.jpg)
 [![Microsoft AI for Tech - GitHub Copilot](https://assets.dio.me/s-xPMdfa6xfwoafLEPe20QUTFcscU4aeJwkj8cvYOf0/f:webp/h:120/q:80/L3RyYWNrcy83MDU0ZTFhZC1hYzEwLTRiMzYtYmNlMC0xZTgyNzVmNzE0YmYucG5n)](https://assets.dio.me/FmgjLJULLWfd6zUJZ6SAngG776ASJ-dfDoFfPEkhXtk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9PUFpQSTBBWC5qcGc)
+[![Microsoft 50 Anos - GitHub Copilot](https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n)](https://assets.dio.me/yJzQZtEUswx1KBu0E2Nk8W-aMy8X-lcmEXi8w5rlB4k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DOFU1R1FSRS5qcGc)
+
 
 
 
